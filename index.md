@@ -1,6 +1,6 @@
 ## Pavel Ostrovskiy
 
-Status: Technicien en informatique
+Status: Votre opinion
 
 ### Markdown
 
